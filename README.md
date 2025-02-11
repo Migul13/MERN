@@ -1,7 +1,7 @@
 # Proyecto de MERN
 
 <div style="text-align: justify"> 
-El presente proyecto fue desarrollado con el stack de tecnologías MERN (Mongo DB, Express, React JS y Node JS) basado en una serie de <a href= "https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm">tutoriales</a> bastante completos, sin embargo, utilizan react-app, la cual, es una tecnología que ya no cuenta con actualizaciones ni soporte. Por esa razón se utilizaron herramientas modernas de desarrollo de REACT, como lo es Vite. Una pequeña vista de la página princial:
+El presente proyecto fue desarrollado con el stack de tecnologías MERN (Mongo DB, Express, React JS y Node JS) basado en una serie de <a href= "https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm" target="_blank">tutoriales</a> bastante completos, sin embargo, utilizan react-app, la cual, es una tecnología que ya no cuenta con actualizaciones ni soporte. Por esa razón se utilizaron herramientas modernas de desarrollo de REACT, como lo es Vite. Una pequeña vista de la página princial:
 
 <br>
 
@@ -10,7 +10,7 @@ El presente proyecto fue desarrollado con el stack de tecnologías MERN (Mongo D
 <br>
 
 
-<a href= "https://mern-project-0b3t.onrender.com/login"> Probar el Proyecto Ahora!</a> 
+<a href= "https://mern-project-0b3t.onrender.com/login" target="_blank"> Probar el Proyecto Ahora!</a> 
 
 <h4>Nota: Al encontrarse en un host gratuito, tarda aproximadamente de 2 a 4 minutos, pero la aplicación está en línea</h4>
 
