@@ -10,19 +10,7 @@ El presente proyecto fue desarrollado con el stack de tecnologías MERN (Mongo D
 <br>
 
 
-
-<button style="
-    font-size: 20px;
-    display: block; margin: 0 auto;
-    padding: 10px 20px;
-    background-color: DarkBlue;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s;">
-    Probar el Proyecto Ahora
-</button>
+<a href= "https://mern-project-0b3t.onrender.com/login"> Probar el Proyecto Ahora!</a> 
 
 <h4>Nota: Al encontrarse en un host gratuito, tarda aproximadamente de 2 a 4 minutos, pero la aplicación está en línea</h4>
 
