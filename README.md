@@ -1,7 +1,9 @@
 # Proyecto de MERN
 
 <div style="text-align: justify"> 
-El presente proyecto fue desarrollado con el stack de tecnologías MERN (Mongo DB, Express, React JS y Node JS) basado en una serie de <a href= "https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm" target="_blank">tutoriales</a> bastante completos, sin embargo, utilizan react-app, la cual, es una tecnología que ya no cuenta con actualizaciones ni soporte. Por esa razón se utilizaron herramientas modernas de desarrollo de REACT, como lo es Vite. Una pequeña vista de la página princial:
+El presente proyecto fue desarrollado con el stack de tecnologías MERN (Mongo DB, Express, React JS y Node JS) basado en una serie de <a href= "https://www.youtube.com/watch?v=-0exw-9YJBo&list=PLillGF-RfqbbQeVSccR9PGKHzPJSWqcsm" target="_blank">tutoriales</a> bastante completos, sin embargo, utilizan react-app, la cual, es una tecnología que ya no cuenta con actualizaciones ni soporte. Por esa razón se utilizaron herramientas modernas de desarrollo de REACT, como lo es Vite. 
+<br>
+Una pequeña vista de la página princial:
 
 <br>
 
@@ -22,9 +24,11 @@ Se expone el diagrama de Entidad-Relación:
 
    ![alt text](/img/DiagramaER.png)
 
-En la presente aplicación, los usuarios pueden registrarse con un nombre, correo, contraseña y su verificación, dichos campos no cuentan con una mayor rigurosidad ya que es una aplicación pequeña, sin emabrgo se pueden añadir valaciones adicionales.
+En la presente aplicación, los usuarios pueden registrarse con un nombre, correo, contraseña que es necesario confirmar, dichos campos no cuentan con una mayor rigurosidad ya que es una aplicación pequeña, sin embargo se pueden añadir valaciones adicionales.
 
 De igual forma pueden crear sus goals (objetivos) se muestra la fecha y el texto, editarlos o incluso eliminarlos.
+
+Existe un usuario de prueba que es juan@juan.com con contraseña 1234 para probar el funcionamiento de la aplicación.
 
 Se muestra la documentación generada en los endpoints, los cuales están protegidos con express:
 
